@@ -6,15 +6,42 @@
     background: transparent;
 }
 
-#menu
-{
-    height: 5%;
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: #00a1e4;
+    color: white;
+  }
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #111;
+    color: white;
+    height: 50px;
     width: 100%;
-    background-color: gray;
-}
-
-#menutekst
-{
-    display: inline;
-
+    text-align: center;
 }
