@@ -41,7 +41,12 @@ footer{
     left: 0;
     background-color: #111;
     color: white;
-    height: 50px;
+    height: 90px;
     width: 100%;
     text-align: center;
+}
+
+#kat{
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
