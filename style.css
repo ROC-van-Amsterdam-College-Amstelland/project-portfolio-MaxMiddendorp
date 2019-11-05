@@ -54,3 +54,13 @@ footer{
 #contact-head{
   text-align: center;
 }
+
+#contact-page{
+  text-align: center;
+}
+
+#mail{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
