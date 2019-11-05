@@ -71,21 +71,26 @@ footer{
   border:0;
 }
 
-/* #vliegtuig{
-  text-align: left;
+#vliegtuig{
+  vertical-align: 50%;
 }
 
 #coderen{
   text-align: right;
-}
+} 
 
-#Scouting{
-  text-align: center;
-} */
+ #Scouting{
+  vertical-align: center;
+} 
 
-.container{
+.balk{
   display: flex;
   flex-direction: row;
   width: 100%;
   justify-content: space-around;
 }
+
+#centro{
+  text-align: center;
+}
+
