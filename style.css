@@ -70,3 +70,22 @@ footer{
   background-size: 100%;
   border:0;
 }
+
+/* #vliegtuig{
+  text-align: left;
+}
+
+#coderen{
+  text-align: right;
+}
+
+#Scouting{
+  text-align: center;
+} */
+
+.container{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
