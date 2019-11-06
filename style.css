@@ -117,12 +117,19 @@ footer{
   margin-top: 50px;
 }
 
-#home-text{
+#Home-text{
   text-align: center;
+  color: white;
 }
 
 .homeachter{
   background-image: url(210962.jpg);
   background-size: 100%;
   border:0;
+}
+
+#qp_all2596220{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 500px;
 }
