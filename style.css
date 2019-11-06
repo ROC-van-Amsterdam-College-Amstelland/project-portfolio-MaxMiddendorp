@@ -53,10 +53,13 @@ footer{
 
 #contact-head{
   text-align: center;
+  color: white;
+  margin-top: 175px;
 }
 
 #contact-page{
   text-align: center;
+  color: white;
 }
 
 #mail{
@@ -104,6 +107,7 @@ footer{
 
 #post{
   text-align: center;
+  color: white;
 }
 
 .center {
@@ -114,7 +118,7 @@ footer{
 
 #centercv{
   text-align: center;
-  margin-top: 50px;
+  margin-top: 320px;
 }
 
 #Home-text{
@@ -132,4 +136,16 @@ footer{
   margin-left: auto;
   margin-right: auto;
   margin-top: 500px;
+}
+
+.cvachter{
+  background-image: url(186244.jpg);
+  background-size: 100%;
+  border:0;
+}
+
+.contactachter{
+  background-image: url(210912.jpg);
+  background-size: 100%;
+  border:0;
 }
