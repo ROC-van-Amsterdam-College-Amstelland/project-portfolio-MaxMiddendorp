@@ -94,3 +94,29 @@ footer{
   text-align: center;
 }
 
+#tijd{
+  text-align: right;
+}
+
+#cv{
+ text-align: center;
+}
+
+#post{
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#centercv{
+  text-align: center;
+  margin-top: 50px;
+}
+
+#home-text{
+  text-align: center;
+}
