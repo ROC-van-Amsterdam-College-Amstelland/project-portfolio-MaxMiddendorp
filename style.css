@@ -13,11 +13,11 @@
     overflow: hidden;
     background-color: #333;
   }
-  
+
   li {
     float: left;
   }
-  
+
   li a {
     display: block;
     color: white;
@@ -25,7 +25,7 @@
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+
   li a:hover {
     background-color: #111;
   }
@@ -54,12 +54,13 @@ footer{
 #contact-head{
   text-align: center;
   color: white;
-  margin-top: 175px;
+  margin-top: 50px
 }
 
 #contact-page{
   text-align: center;
   color: white;
+  text-align: center;
 }
 
 #mail{
@@ -80,11 +81,11 @@ footer{
 
 #coderen{
   text-align: right;
-} 
+}
 
  #Scouting{
   vertical-align: center;
-} 
+}
 
 .balk{
   display: flex;
@@ -118,7 +119,8 @@ footer{
 
 #centercv{
   text-align: center;
-  margin-top: 320px;
+  margin-top: 100px;
+  color: red;
 }
 
 #Home-text{
@@ -150,20 +152,6 @@ footer{
   border:0;
 }
 
-#HTML{
-
-}
-
-#CSS{
-
-}
-
-#JS{
-
-}
-
-#HTML, #CSS, #JS{
-  display: inline-block;
-  margin-top: 50px;
-  padding: 50px;.
-}
+#HCJ{
+  text-align: center;
+} 
